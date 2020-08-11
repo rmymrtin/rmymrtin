@@ -5,7 +5,7 @@
 - 🥅 2020 Goal : Learn as much as possible about programming
 - ⚡ Fun fact : I am currently 16 years old 
 
-<br />
+---
 
 ### Languages and Tools:
 
