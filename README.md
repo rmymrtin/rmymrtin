@@ -1,6 +1,6 @@
 ### Hello, I am Rémy Martin 👋
 
-- 🔭 I’m currently working on a mobile app !
+- 💼 I’m currently working on a mobile app !
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goal : Learn as much as possible about programming
 - ⚡ Fun fact : I am currently 16 years old 
