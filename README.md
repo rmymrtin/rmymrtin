@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rémy Martin ! :stars:</h1>
 
 ## About me :wave:
-- 🔭 I’m currently working on an app
+- 🔭 I’m currently working on an website
 - 🌱 I’m currently learning Symfony
 - 💬 My Discord is Rémy#7835
 - ⚡ Fun fact: I have 16 years old
