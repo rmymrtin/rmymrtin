@@ -2,7 +2,7 @@
 
 ## About me :wave:
 - 🔭 I’m currently working on an app
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning Symfony
 - 💬 My Discord is Rémy#7835
 - ⚡ Fun fact: I have 16 years old
 
@@ -20,6 +20,8 @@
 ![DART](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks
+
+![SYMFONY](https://img.shields.io/badge/symfony%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![REACTJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
