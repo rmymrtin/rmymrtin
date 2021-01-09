@@ -2,7 +2,7 @@
 
 ## About me :wave:
 - 🔭 I’m currently working on an website
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Flutter & Dart
 - 💬 My Discord is Rémy#7835
 - ⚡ Fun fact: I have 16 years old
 
