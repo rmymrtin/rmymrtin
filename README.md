@@ -32,6 +32,7 @@
 
 ### Databases
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb%20-X9636.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
